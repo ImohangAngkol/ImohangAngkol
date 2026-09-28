@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm AD 👋
+# Hi, I'm AD (or ImongAngkol)👋
 
 ### Aspiring Data Scientist & AI/ML Engineer
 
-Python is my everyday language. I'm exploring how data and machine learning can solve practical problems.
+Python is my everyday language. I do data analytics and some web development, and I'm exploring how data and machine learning can solve practical problems.
 
 ![Data Science](https://img.shields.io/badge/Data_Science-A855F7?style=for-the-badge)
 ![AI / ML](https://img.shields.io/badge/AI_%2F_ML-171321?style=for-the-badge&labelColor=171321)
@@ -18,7 +18,8 @@ Python is my everyday language. I'm exploring how data and machine learning can 
 
 - 🐍 I primarily work with **Python**.
 - 👁️ I'm interested in **computer vision and machine learning**.
-- 📊 I enjoy exploring **data analytics and automation**.
+- 📊 I do **data analytics** and enjoy exploring **automation with Python**.
+- ⚛️ I also love **quantum mechanics and quantum computing**.
 - 🌐 I also do a bit of **web development**, building apps and APIs with Python.
 - 🌱 **C++** is next on my learning list.
 - 🎯 I'm working toward a career in **data science and AI/ML engineering**.
@@ -65,6 +66,8 @@ I'm also gaining experience with this frontend stack through my scheduling dashb
 | Machine learning | Learning patterns from data to make useful predictions |
 | Data analytics | Turning raw data into clear, useful insights |
 | Automation | Using Python to simplify repetitive tasks |
+| Quantum mechanics | Exploring how the universe behaves at the quantum level |
+| Quantum computing | Exploring how quantum principles open up new ways to compute |
 
 ### Projects & learning
 
