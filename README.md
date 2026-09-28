@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm AD (or ImongAngkol)👋
+# Hi, I'm AD(or ImohangAngkol) 👋
 
 ### Aspiring Data Scientist & AI/ML Engineer
 
@@ -32,6 +32,14 @@ Python is my everyday language. I do data analytics and some web development, an
 **Learning next**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-161B22?style=for-the-badge&logo=cplusplus&logoColor=A78BFA)
+
+### Data analytics, ML & computer vision
+
+![PyTorch](https://img.shields.io/badge/PyTorch-161B22?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![OpenCV](https://img.shields.io/badge/OpenCV-161B22?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![YOLO](https://img.shields.io/badge/YOLO-161B22?style=for-the-badge&labelColor=7C3AED)
+![pandas](https://img.shields.io/badge/pandas-161B22?style=for-the-badge&logo=pandas&logoColor=A78BFA)
+![NumPy](https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&logo=numpy&logoColor=4DABCF)
 
 ### Web development
 
