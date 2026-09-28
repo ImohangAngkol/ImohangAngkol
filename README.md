@@ -19,6 +19,7 @@ Python is my everyday language. I'm exploring how data and machine learning can 
 - 🐍 I primarily work with **Python**.
 - 👁️ I'm interested in **computer vision and machine learning**.
 - 📊 I enjoy exploring **data analytics and automation**.
+- 🌐 I also do a bit of **web development**, building apps and APIs with Python.
 - 🌱 **C++** is next on my learning list.
 - 🎯 I'm working toward a career in **data science and AI/ML engineering**.
 
@@ -29,6 +30,21 @@ Python is my everyday language. I'm exploring how data and machine learning can 
 **Learning next**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-161B22?style=for-the-badge&logo=cplusplus&logoColor=A78BFA)
+
+### Web development
+
+I have some experience with these Python web frameworks:
+
+![Django](https://img.shields.io/badge/Django-161B22?style=for-the-badge&logo=django&logoColor=44B78B)
+![Flask](https://img.shields.io/badge/Flask-161B22?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=for-the-badge&logo=fastapi&logoColor=009688)
+
+I'm also gaining experience with this frontend stack through my scheduling dashboard:
+
+![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Vite](https://img.shields.io/badge/Vite-161B22?style=for-the-badge&logo=vite&logoColor=A78BFA)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161B22?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 
 ### Tools & workspace
 
@@ -45,6 +61,14 @@ Python is my everyday language. I'm exploring how data and machine learning can 
 | Machine learning | Learning patterns from data to make useful predictions |
 | Data analytics | Turning raw data into clear, useful insights |
 | Automation | Using Python to simplify repetitive tasks |
+
+### Projects & learning
+
+**[CCS Faculty Scheduling System](https://github.com/ImohangAngkol/CCS-Faculty-Scheduling-System)**  
+An ongoing faculty scheduling decision-support project using a genetic algorithm, with a FastAPI backend and a React dashboard. Exploring scheduling constraints, faculty preferences, and workload allocation.
+
+**Computer vision learning**  
+Hands-on Python notebooks exploring image processing and object detection as I build my computer vision skills.
 
 ---
 
