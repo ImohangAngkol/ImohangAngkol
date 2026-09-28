@@ -41,6 +41,12 @@ Python is my everyday language. I do data analytics and some web development, an
 ![pandas](https://img.shields.io/badge/pandas-161B22?style=for-the-badge&logo=pandas&logoColor=A78BFA)
 ![NumPy](https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&logo=numpy&logoColor=4DABCF)
 
+**Data visualization**
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-161B22?style=for-the-badge&labelColor=7C3AED)
+![Seaborn](https://img.shields.io/badge/Seaborn-161B22?style=for-the-badge&labelColor=7C3AED)
+![Plotly](https://img.shields.io/badge/Plotly-161B22?style=for-the-badge&logo=plotly&logoColor=A78BFA)
+
 ### Web development
 
 I have some experience with these Python web frameworks:
