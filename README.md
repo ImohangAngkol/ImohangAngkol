@@ -22,6 +22,7 @@ Python is my everyday language. I'm exploring how data and machine learning can 
 - 🌐 I also do a bit of **web development**, building apps and APIs with Python.
 - 🌱 **C++** is next on my learning list.
 - 🎯 I'm working toward a career in **data science and AI/ML engineering**.
+- 🎓 I plan to pursue a **master's degree in Data Science**.
 
 ### Languages
 
@@ -48,6 +49,8 @@ I'm also gaining experience with this frontend stack through my scheduling dashb
 
 ### Tools & workspace
 
+![VS Code](https://img.shields.io/badge/VS_Code-161B22?style=for-the-badge&labelColor=7C3AED)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-161B22?style=for-the-badge&logo=intellijidea&logoColor=A78BFA)
 ![Jupyter](https://img.shields.io/badge/Jupyter-161B22?style=for-the-badge&logo=jupyter&logoColor=F37626)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-161B22?style=for-the-badge&logo=googlecolab&logoColor=F9AB00)
 ![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032)
@@ -57,6 +60,7 @@ I'm also gaining experience with this frontend stack through my scheduling dashb
 
 | Area | What draws me to it |
 | :--- | :--- |
+| Artificial intelligence | Building intelligent systems that solve practical problems |
 | Computer vision | Helping computers make sense of images and video |
 | Machine learning | Learning patterns from data to make useful predictions |
 | Data analytics | Turning raw data into clear, useful insights |
